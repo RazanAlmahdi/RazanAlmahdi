@@ -42,10 +42,12 @@
 <tr border="none">
 <td width="50%" align="center">
               
-  <img  align="center"  src="https://github-profile-trophy.vercel.app/?username=RazanAlmahdi&theme=darkhub&show_icons=true&count_private=true&olumn=3&margin-w=15&margin-h=15" />
+
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RazanAlmahdi&theme=dark&hide_border=false" /> 
 </td>
+
+<td>  <img  align="center"  src="https://github-profile-trophy.vercel.app/?username=RazanAlmahdi&theme=darkhub&show_icons=true&count_private=true&olumn=3&margin-w=15&margin-h=15" /></td>
 
 <td width="50%" align="center">
 
