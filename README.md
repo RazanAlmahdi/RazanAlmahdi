@@ -29,7 +29,7 @@
 <!--Intro start-->
 - 🔭 Senior College Student 
 - 🌱 I’m currently learning **machine learning, robotics, and AI engineering**
-- ☁️ I've keen interest in **machine learning, data sciences and web development**
+- ☁️ I have keen interest in **machine learning, data sciences and web development**
 - 📫 Feel free to reach out to me **rznalmahdi@gmail.com**
 <!--Intro end-->
 
