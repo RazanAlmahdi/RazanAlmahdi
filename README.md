@@ -11,12 +11,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -33,6 +27,9 @@
 - 📫 Feel free to reach out to me **rznalmahdi@gmail.com**
 <!--Intro end-->
 
+
+<!--- stats & Trophy (start) -->
+
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RazanAlmahdi&theme=dark&show_icons=true&count_private=true" />
@@ -41,7 +38,6 @@
 </td>
 
 <td width="50%" align="center">
-<!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
