@@ -28,8 +28,8 @@
 
 <!--Intro start-->
 - 🔭 Senior College Student 
-- 🌱 I’m currently learning **machine learning, robotics, and AI engineering**
-- ☁️ I have keen interest in **machine learning, data sciences and web development**
+- 🌱 I’m currently learning **data analysis, digital transformation strategy, and business analysis**
+- ☁️ I have keen interest in **innovation, using creativity to bridge technology and business**
 - 📫 Feel free to reach out to me **rznalmahdi@gmail.com**
 <!--Intro end-->
 
@@ -39,14 +39,6 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RazanAlmahdi&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RazanAlmahdi&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RazanAlmahdi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
