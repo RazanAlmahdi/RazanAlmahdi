@@ -30,6 +30,10 @@
 
 <!--- stats & Trophy (start) -->
 
+
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RazanAlmahdi&theme=dark&show_icons=true&count_private=true" />
@@ -39,9 +43,6 @@
 
 <td width="50%" align="center">
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RazanAlmahdi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
